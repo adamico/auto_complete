@@ -8,6 +8,9 @@ Fork of the standard auto_complete plugin to support:
 
 See: {http://patshaughnessy.net/repeated_auto_complete}[http://patshaughnessy.net/repeated_auto_complete] for details.
 
+== adamico's fork
+Working on rails3 compatibility
+
 == Install as a gem
 
   gem sources -a http://gemcutter.org
